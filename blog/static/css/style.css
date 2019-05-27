@@ -1,0 +1,15 @@
+ body {
+     background: #fcf8f3;
+ }
+
+ #published_date {
+     color: #ff502f;
+ }
+
+ #post_title a {
+     color: #373a6d;
+ }
+
+ #post_content {
+     color: #7572f4;
+ }
